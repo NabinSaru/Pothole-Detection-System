@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "202248962963",
+    "firebase_url": "https://newmarker-5bfb1.firebaseio.com",
+    "project_id": "newmarker-5bfb1",
+    "storage_bucket": "newmarker-5bfb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202248962963:android:91371fbb4183c727715e66",
+        "android_client_info": {
+          "package_name": "com.sandesh.newmarker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202248962963-rs17vklfrmu3pft548qr5ijl24sklj1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd7oc6iONhZVQ1jo9_C7EVl6xqcYz-o8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202248962963-rs17vklfrmu3pft548qr5ijl24sklj1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
